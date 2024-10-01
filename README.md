@@ -47,6 +47,7 @@ print("Olá, Mundo!")
 ```
 # Emojis:
 Olá pequeno Gafanhoto! 🖖
-
+# Comentários:
+> Olá, Mundo!
 
 
